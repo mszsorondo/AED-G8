@@ -1,0 +1,3 @@
+C:/Users/msoro/OneDrive/Escritorio/AED I/AED8/cmake-build-debug/CMakeFiles/AED8.dir
+C:/Users/msoro/OneDrive/Escritorio/AED I/AED8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/msoro/OneDrive/Escritorio/AED I/AED8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/msoro/OneDrive/Escritorio/AED I/AED8/punto4.cpp
+puntos.h
+C:/Users/msoro/OneDrive/Escritorio/AED I/AED8/puntos.h
+
+C:/Users/msoro/OneDrive/Escritorio/AED I/AED8/puntos.h
+vector
+-
+iostream
+C:/Users/msoro/OneDrive/Escritorio/AED I/AED8/iostream
+
