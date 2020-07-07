@@ -20,6 +20,10 @@ int mesetaMasLarga(vector<int> v){
         }
         i++;
     }
+    if (mesetaActual>maxMeseta) {
+        maxMeseta = mesetaActual;
+        mesetaActual = 1;
+    }
     return maxMeseta;
 }
 
